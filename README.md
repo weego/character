@@ -24,6 +24,8 @@ Read:
 Realizations: 
 
 - feedback .ar
+  - https://github.com/marcokuhn/DMI/blob/main/code/scd/3-xFM.scd 
+  - https://fredrikolofsson.com/f0blog/feedback-synths/
 - feedback .kr
 - logic from signals 
   - LFSR 
@@ -31,12 +33,14 @@ Realizations:
   -  Peter Blasser's Fyrall
 - feedback via counters / frequency dividers etc.
 - [scsynth thread](https://scsynth.org/t/cybernetic-music-with-supercollider/3184) and [lines forum thread](https://llllllll.co/t/cybernetic-music-roland-kayn-feedback-systems-ai/40635) on cybernetic music: do cybernetic music systems need to be goal-oriented? 
+
   
 ### Bad behaviour - against engineering norms
 - irregular sample rate 
 - thermic drift
 - aliasing 
 - distorsion
+- [low battery audio effects](https://nathan.ho.name/posts/low-battery-audio-effects/)
   
 ### inspired by organic life
 - linear drift aka aging - reboot to get back
