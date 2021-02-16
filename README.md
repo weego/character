@@ -25,7 +25,7 @@ https://ciat-lonbarde.net/fyrall/index.html
 
 Realizations: 
 
-- simple examples in  - https://github.com/marcokuhn/DMI/blob/main/code/scd/8-trivial-nontrivial.scd 
+- simple examples in  https://github.com/marcokuhn/DMI/blob/main/code/scd/8-trivial-nontrivial.scd 
 - feedback .ar
   - https://github.com/marcokuhn/DMI/blob/main/code/scd/3-xFM.scd 
   - https://fredrikolofsson.com/f0blog/feedback-synths/
