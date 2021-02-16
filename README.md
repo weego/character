@@ -10,7 +10,7 @@ But what is it that gives them *character*, and how can we achieve it in our own
 
 The repo is structured in conceptual parts with reading material, and SC code. 
 
-## methods to madness
+## methods 
 
 ### cybernetics / nontrivial systems / the Barrons
 
